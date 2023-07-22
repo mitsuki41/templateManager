@@ -3,14 +3,10 @@
 // @namespace		littleendu.xyz
 // @downloadURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
 // @updateURL		https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
-// @match			https://pxls.space/
 // @match			https://new.reddit.com/r/place/*
 // @match			https://www.reddit.com/r/place/*
 // @match			https://garlic-bread.reddit.com/embed*
 // @match			https://hot-potato.reddit.com/embed*
-// @match			https://www.twitch.tv/otknetwork/*
-// @match			https://9jjigdr1wlul7fbginbq7h76jg9h3s.ext-twitch.tv/*
-// @match			https://place.ludwig.gg/*
 // @grant			GM.xmlHttpRequest
 // @grant			GM.setValue
 // @grant			GM.getValue
